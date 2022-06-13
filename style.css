@@ -1,4 +1,4 @@
-body{
+/* body{
     margin: 0px;
     position: relative;
 }
@@ -11,4 +11,14 @@ body{
     position: fixed;
     left: 10px;
     top: 30px;
+} */
+
+/* The third method is the use of canvas */
+
+body{
+    margin: 0px;
+}
+
+canvas{
+    background-color: white;
 }
