@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    position: relative;
+}
+
+#ball{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    border-radius: 50%;
+    position: fixed;
+    left: 10px;
+    top: 30px;
+}
